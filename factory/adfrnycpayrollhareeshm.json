@@ -1,0 +1,9 @@
+{
+	"name": "adfrnycpayrollhareeshm",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8f3d37e-cd18-48f2-b1b8-b550154f2f91",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
